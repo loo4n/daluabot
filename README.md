@@ -1,4 +1,4 @@
-# 🤖 Brizas-bot 🤖
+# 🤖 DaLua-Bot 🤖
 <h1 align="center">
     <p>
         <img src= "https://imgur.com/t/shinra_kusakabe/TAy8nBp">
