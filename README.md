@@ -1,7 +1,7 @@
 # 🤖 DaLua-Bot 🤖
 <h1 align="center">
     <p>
-        <img src= "https://imgur.com/t/shinra_kusakabe/TAy8nBp">
+        <img src= "https://i.imgur.com/LRqXqej.gif">
     </p>
     <p>
         <a href="https://github.com/ianmsfvenom"><img title="Author"    src="https://img.shields.io/badge/Author-DaLua-purple.svg?style=for-the-badge&logo=github"></a>
